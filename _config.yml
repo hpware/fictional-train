@@ -1,5 +1,5 @@
-title: tonic-starter
-description: ""
+title: "The cloud space theme"
+description: "This is theme where you can have clouds & spaces in your wehsite (joking). Made by Howard."
 encoding: utf-8
 
 exclude: ["README.md", "LICENSE", "*.gem", "*.gemspec", "Gemfile.lock"]
